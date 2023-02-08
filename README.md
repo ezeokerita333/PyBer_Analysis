@@ -1,5 +1,5 @@
 
-#SUMMARY
+## SUMMARY
 This is a data summarisation of the difference students in different schools, showing their various id, grades, scores and so on, and how we did a step by step work to get the data, prepare(clean) the data and analysing it using the Big Picture Analysis and Targeted Analysis. The following will be a brief explaination/discoveries of each deliverables:
 
 Deliverable 1; was just creating a path to the file to be opened,turning it to a readable file and also getting the first five rows of the data, this also helps me know that I have properly imported my data file.
