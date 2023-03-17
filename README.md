@@ -6,7 +6,9 @@ Deliverable 1; was just creating a path to the file to be opened,turning it to a
 
 Deliverable 2; We checked for the null values which showed that data consisted of alot of null values and duplicated items, which eventually was going to interact with our analysis, thus, had to to be removed. The grades column was saved as string which had to be changed to an integar in order to be able to perform proper calculations, like the Big Picture Analysis and Targeted Analysis on it. This was firstly done by removing the suffix at the end of each number  and then changing the data type to our choice data type(integar).
 
-Deliverable 3; We went futher to summarise the data using the describe function, which provided us with the mean, count, max and a lot more. we also got the mean and min of some score values.
+Deliverable 3; We went futher to summarise the data using the describe function, which provided us with the mean, count, max and a lot more. we also got the mean and min of some score values as shown below:
+Screenshot 2023-03-16 at 10.56.32 PM.png![image](https://user-images.githubusercontent.com/109382758/225801172-6b4006de-e134-4224-92ae-c61be2dcd166.png)
+
 
 Deliverable 4; We checked the grade columns using the loc function, which was another way of getting columns in a dataset and also used it to get specific rows, columns and values from the dataset.
 
